@@ -1,0 +1,15 @@
+database mongodb - mssql - oracle 
+
+rest node.js 
+	/8080/auth/login     post
+	/8080/auth/register  post
+	
+
+angularjs or angular 2 
+
+angular pages = component 
+	home 	 
+	login
+	register
+
+
